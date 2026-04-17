@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TMDB-CLI-Tool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae4a870b31824e33af4570adaa3cbe86ac32e90c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84f6c8ccd151a3f46eac5310522d9ad746a247a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TMDB-CLI-Tool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TMDB-CLI-Tool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
