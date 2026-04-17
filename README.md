@@ -123,3 +123,6 @@ Supported values for `--type`:
 - If the API key is missing, the app will report the missing `TMDB_API_KEY` environment variable.
 - If the network request fails, the app will print a network error or timeout message.
 - If the API response cannot be parsed, the app will print a JSON parsing error.
+
+## URL
+https://roadmap.sh/projects/tmdb-cli
